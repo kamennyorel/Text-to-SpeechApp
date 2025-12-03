@@ -1,0 +1,9 @@
+/* Výchozí kurzor pro tlačítko */
+#speak-btn {
+  cursor: default;
+}
+
+/* Kurzoru při najetí myší */
+#speak-btn:hover {
+  cursor: grab; /* kurzor se změní při hoveru */
+}
